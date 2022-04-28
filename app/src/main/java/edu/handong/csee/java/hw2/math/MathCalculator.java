@@ -12,7 +12,7 @@ public class MathCalculator {
     /** This method returns the driver Name that is already set by setName method*/
     public String getName() {
         return name;
-    }  
+    }
     /** This method returns the biggger integer number out of int a and int b */
     public int getMax(int a, int b) {
         if (a>b) return a;

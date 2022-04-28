@@ -1,7 +1,7 @@
 package edu.handong.csee.java.hw2;
 
 import edu.handong.csee.java.hw2.math.MathCalculator;
-  
+
 /** This is class of MathDriver that has main and run methods */
 public class MathDriver {
 
