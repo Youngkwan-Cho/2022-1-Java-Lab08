@@ -1,7 +1,7 @@
 package edu.handong.csee.java.hw2;
 
 import edu.handong.csee.java.hw2.math.MathCalculator;
-
+  
 /** This is class of MathDriver that has main and run methods */
 public class MathDriver {
 
@@ -12,7 +12,7 @@ public class MathDriver {
     }
     /** Run Method to do the actual math calculator functions according to what the user chooses*/
     public void run(String[] args) {
-        
+      
         MathCalculator mathCalculator = new MathCalculator();
 
         mathCalculator.setName(args[0]);
